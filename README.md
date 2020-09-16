@@ -4,7 +4,7 @@
 ## I am Lopz, a backend dev :D
 - 🔭 I’m currently working at <b> Cobena Business Analytics and Strategy Inc. </b>(github.com/cobenagroup)
 - :gear: I mainly use <b> SQL </b>,<b> Microsoft .NET Core C# </b>, <b> Python</b>.
-- :cloud: I've used Azure in some of my projects. I am also a [certified AWS Developer](https://www.youracclaim.com/badges/7178a40e-e895-4d69-b7cc-44437a27a1d1?source=github).
+- :cloud: I've used Azure in some of my projects. I use AWS as well! I am also a [certified AWS Developer](https://www.youracclaim.com/badges/7178a40e-e895-4d69-b7cc-44437a27a1d1?source=github).
 - 💬 Ask me about <b>Cloud</b>, <b>Databases</b>, <b>APIs / REST</b>, <b>Programming</b>.
 - 🌱 I’m currently learning other backend development stack :D
 
